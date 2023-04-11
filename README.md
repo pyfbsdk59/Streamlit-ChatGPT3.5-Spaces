@@ -33,7 +33,7 @@ https://huggingface.co/join
   <img src="demo/hg2.png" width="600"/>
 </div>
 
-### 4. 輸入專案名稱(Space name)，License不用管，SDK選擇Gradio，剩下的不用做更改，按下Create Space。
+### 4. 輸入專案名稱(Space name)，License不用管，SDK選擇Streamlit，剩下的不用做更改，按下Create Space。
 
 <div align="center">
   <img src="demo/hg3.png" width="600"/>
